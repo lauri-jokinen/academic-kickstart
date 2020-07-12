@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Lauri Jokinen
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Bachelor of Technology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Aalto University
+  url: "https://www.aalto.fi/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mathematical modeling
+- Graphic design
+- Making useful scripts
 
 education:
   courses:
