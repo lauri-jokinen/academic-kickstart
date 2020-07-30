@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Sytems Analysis
+  - course: BSc in Systems Analysis
     institution: Aalto University, School of Science
     year: 2020
 
