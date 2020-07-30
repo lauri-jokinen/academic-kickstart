@@ -28,15 +28,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Sytems Analysis
+    institution: Aalto University, School of Science
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +41,13 @@ social:
   icon_pack: fas
   link: mailto:lauri.jokinen@aalto.fi
 - icon: facebook
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.facebook.com/lauri.jokinen.5
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/lapamato/
 - icon: youtube
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.youtube.com/channel/UC5FFR1sN2bq1vc4r4VGaj6Q
 - icon: github
   icon_pack: fab
