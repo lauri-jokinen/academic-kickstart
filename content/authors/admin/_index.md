@@ -45,7 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:lauri.jokinen@aalto.fi".
+  link: mailto:lauri.jokinen@aalto.fi
+- icon: facebook
+  icon_pack: fas
+  link: https://www.facebook.com/lauri.jokinen.5
+- icon: linkedin
+  icon_pack: fas
+  link: https://www.linkedin.com/in/lapamato/
+- icon: youtube
+  icon_pack: fas
+  link: https://www.youtube.com/channel/UC5FFR1sN2bq1vc4r4VGaj6Q
 - icon: github
   icon_pack: fab
   link: https://github.com/lapamatoz
@@ -65,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-This website will be updated soon...
+Hello, I'm a tech student living in Finland. I'm a calm and cooperative person, but I also tend to try and solve problems on my own.
 
-Stay put
+This is a new line. I try to get more stuff here soon.
