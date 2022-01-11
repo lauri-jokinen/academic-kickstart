@@ -19,12 +19,13 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
-bio: My interests are towards mathematics, programming and graphics design.
+bio: My interests are towards mathematics, programming and graphic design.
 
 interests:
-- Mathematical modeling
-- Graphic design
-- Making useful scripts
+- Mathematical modeling and analysis
+- Making useful scripts and programs
+- Music, primarily singing
+- Graphic design and photography
 
 education:
   courses:
@@ -68,6 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Hello, I'm a tech student living in Finland. I'm a calm and cooperative person, but I also tend to try and solve problems on my own.
-
-This is a new line. I try to get more stuff here soon.
+I study systems analysis at Aalto University. I'm an eager mathematician and most of my free time is spent singing in a choir and a band. Feel free to contact me!
