@@ -17,28 +17,55 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+# [[experience]]
+#  title = "CEO"
+#  company = "GenCoin"
+#  company_url = ""
+#  location = "California"
+#  date_start = "2017-01-01"
+#  date_end = ""
+#  description = """
+#  Responsibilities include:
+#  
+#  * Analysing
+#  * Modelling
+#  * Deploying
+#  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Thesis Worker"
+  company = "Aalto University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Espoo"
+  date_start = "2020-09-01"
+  date_end = "2021-05-31"
+  description = """Master's thesis with KONE Corporation and Aalto University"""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Aalto University"
+  company_url = ""
+  location = "Espoo"
+  date_start = "2019-06-01"
+  date_end = "2019-08-31"
+  description = """Continuing the research related to my Bachelor's thesis"""
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "Aalto University"
+  company_url = ""
+  location = "Espoo"
+  date_start = "2018-06-01"
+  date_end = "2018-08-31"
+  description = """Research and studying the topics of my Bachelor's thesis"""
+
+[[experience]]
+  title = "Sales"
+  company = "Sector Alarm Finland"
+  company_url = ""
+  location = "Espoo"
+  date_start = "2017-05-01"
+  date_end = "2017-08-31"
+  description = """Selling of alarm systems in Uusimaa area"""
 
 +++
