@@ -47,12 +47,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lapamato/
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/channel/UC5FFR1sN2bq1vc4r4VGaj6Q
 - icon: github
   icon_pack: fab
   link: https://github.com/lapamatoz
+- icon: edit
+  icon_pack: fas
+  link: https://blog.laurijokinen.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
