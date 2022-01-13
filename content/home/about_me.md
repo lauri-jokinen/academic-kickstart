@@ -11,8 +11,8 @@ design:
   columns: '1'
 ---
 
-## Arvot
-Arvostan tarkkaa ajattelua ja panostusta yksityiskohtiin. Vanhana partiolaisena ja milleniaalina, haluan jättää maailman parempana kuin sen löysin. Pidän itseäni minimalistina ja nautin olla luonnon helmassa, vaikken siellä kovin usein käykään.
+## Values
+I appreciate thorough thinking and attention to detail. As an old scout and millenial, I'd like to leave the world as a little better place, at some level. I think of myself as a minimalist.
 
 ## Työntekijänä
 Olen hyvä tiimityöskentelijä, mutta teen töitä myös yksin, kun minulle on asetettu tarpeeksi tarkka maali. Olen yhteistyöhaluinen.
