@@ -8,7 +8,7 @@ subtitle:
 weight: 45  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 ---
 
 ## Education
@@ -23,7 +23,7 @@ I'm familiar with the most popular high level coding languages, with a slight ex
 
 I've worked as a treasurer for the Polytech Choir, for three years time (yearly sales approx. 130 k€). Also, I have conducted a closing of a small company owned by the choir. Back in the day, I was a scout leader for three years.
 
-# My own projects
+## My own projects
 
 
 Currently, I'm interested in smart tech that controls existing home heating systems. With these solutions, we can slow down the climate change with small investments.
@@ -33,11 +33,11 @@ Also, I have coded an "invoice sender" with Google Apps Script, which works with
 
 Lastly, I will mention a graphics tool for making a carefully compositioned matrix of photos. The tool includes Adobe ExtendScript (JavaScript) macros for Adobe Illustrator, and speeds up the workflow for this kind of printed material.
 
-# Character
+## Character
 
 I value thorough thinking and attention to detail. As a former scout, and millennial, I want to leave this world a little better than I found it. I'm a thoughtful, calm, persistent and innovative. My friends say that I never get mad. I'm able to work in a team or independently. I'm a co-operative and active worker.
 
-# Hobbies
+## Hobbies
 
 I sing in the Polytech Choir and in a party band called Fii Fighters. I also play guitar and performed in Fyysikkospeksi 2017 as an actor. I have designed a few 
 <a href= "https://drive.google.com/drive/folders/1g4XVFWjP8sZzwQPsReI5kpWIMIwkx8o-?usp=sharing" target="_blank">logos</a>.
