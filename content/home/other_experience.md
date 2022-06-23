@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title:
+title: Other experience and skills
 subtitle:
 weight: 43  # section position on page
 design:
