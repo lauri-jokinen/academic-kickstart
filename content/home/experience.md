@@ -33,6 +33,15 @@ date_format = "Jan 2006"
 #  """
 
 [[experience]]
+  title = "Research intern"
+  company = "Image Soft Oy"
+  company_url = ""
+  location = "Helsinki"
+  date_start = "2022-06-01"
+  date_end = ""
+  description = """Mathematical modeling"""
+
+[[experience]]
   title = "Thesis Worker"
   company = "Aalto University"
   company_url = ""
@@ -58,14 +67,5 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2018-08-31"
   description = """Research and studying the topics of my Bachelor's thesis"""
-
-[[experience]]
-  title = "Sales"
-  company = "Sector Alarm Finland"
-  company_url = ""
-  location = "Espoo"
-  date_start = "2017-05-01"
-  date_end = "2017-08-31"
-  description = """Selling of alarm systems in Uusimaa area"""
 
 +++
