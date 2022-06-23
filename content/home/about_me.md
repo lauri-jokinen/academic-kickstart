@@ -11,35 +11,36 @@ design:
   columns: '1'
 ---
 
-## Values
-I appreciate thorough thinking and attention to detail. As an old scout and millenial, I'd like to leave the world as a little better place, at some level. I think of myself as a minimalist.
+## Education
+I've finished my Bachelor's and Master's theses at the Aalto University, in collaboration with KONE Corporation. Both theses handle optimal packing of elevators with various objects.
+<a href= "https://drive.google.com/drive/folders/1_q6ybNO5NTel8Rtws31ZyM08YaLwhrNw?usp=sharing" target="_blank">Link to the theses</a>.
 
-## Työntekijänä
-Olen hyvä tiimityöskentelijä, mutta teen töitä myös yksin, kun minulle on asetettu tarpeeksi tarkka maali. Olen yhteistyöhaluinen.
+My math skills are notable. I'm fast a learner when it comes to mathematical concepts and complex systems. My specialities are optimization, numerical methods, data analysis and linear algebra.
 
-## Työkalut
-Minulla on matematiikka erittäin hyvin hallussa. Olen nopea ymmärtämään matemaattisia konsepteja ja monimutkaisia kokonaisuuksia.
+I'm familiar with the most popular high level coding languages, with a slight exception of web software development. I have taken an elementary course on C language as well.
 
-Koodikielet JavaScript, Python ovat hyvin hallussa. Matemaattisista kielistä Matlab ja Mathematica ovat erittäin hyvin hallussa. Osaan myös C:n alkeet, vaikka kurssi onkin käyty muutama vuosi sitten.
+## Associations
 
-## Luonne
-Olen luonteeltani pohdiskeleva, rauhallinen ja pitkäjänteinen. Olen positiivinen (sanotaan, etten ole koskaan vihainen // ystäväni kuvaavat minua ... ) ja innovatiivinen. Olen hyvin ratkaisukeskeinen.
+I've worked as a treasurer for the Polytech Choir, for three years time (yearly sales approx. 130 k€). Also, I have conducted a closing of a small company owned by the choir. Back in the day, I was a scout leader for three years.
 
-## Harrastukset
-Laulan Polyteknikkojen Kuorossa ja Fii Fighters -bändissä. Soitan toisinaan kitaraa ja näyttelen musikaaleissa. Harrastan myös valokuvausta ja grafiikkaa. Suoritin varusmiespalveluksen Varusmiessoittokunnassa, jossa olin mediatiimissä. Olen suunnitellut muutaman logon ja julisteen. Pelaan sulkapalloa.
+# My own projects
 
-Pienet koodaus- ja matematiikkaprojektit kuuluvat myös arkielämään kotona, olen kiinnostunut automatisoimaan kotia. Jos jokin ajatus vihloo mieltä, ratkon sitä usein paperilla tai koodaan sen auki.
 
-## Projektit
-Minua kiinnostaa erityisesti älykkäät ratkaisut olemassaolevan lämpötekniikan kanssa, sillä niiden avulla voidaan ehkäistä ilmastonmuutosta pienillä investoinneilla.
+Currently, I'm interested in smart tech that controls existing home heating systems. With these solutions, we can slow down the climate change with small investments.
+With this idea in mind, I've coded a Python Telegram bot for myself which enables home heating control and automation. The system works with various Bluetooth and WiFi devices.
 
-Tässä muutama projekti:
-* Laskupulautin: Google Apps Script, helpottaa rahastonhoitajan työtä laskutuksen automatisoinnilla. Ratkaisu säästää myös hieman kuoron rahaa.
-* Toimaritaulu: Adobe ExtendScript (JavaScript), helpottaa suuren printtituotteen tekemistä, jossa on paljon kasvoja (tms.) matriisinomaisesti.
-* Älykotibot: Python Telegrambotti, mahdollistaa kodin lämmityksen tarkkailun ja automatisoinnin erilaisten Bluetooth-laitteiden avulla.
+Also, I have coded an "invoice sender" with Google Apps Script, which works with Procountor accounting software. The tool reduces the treasurer's work by automating the invoice sending, and also saves a little money.
 
-## Yhdistystoiminta
-Olen ollut Polyteknikkojen Kuoron rahastonhoitaja (liikevaihto noin 130 k€, joten ei mikään pieni yhdistys). Lisäksi olen ollut ajamassa kyseisen Kuoron omistamaa osakeyhtiötä alas. Olen ollut nuorempana partiojohtaja ja johtanut kaverin kanssa partioryhmää yhteensä kolme vuotta.
+Lastly, I will mention a graphics tool for making a carefully compositioned matrix of photos. The tool includes Adobe ExtendScript (JavaScript) macros for Adobe Illustrator, and speeds up the workflow for this kind of printed material.
 
-## Intti
-Olin varusmiessoittokunnassa mediatiimissä.
+# Character
+
+I value thorough thinking and attention to detail. As a former scout, and millennial, I want to leave this world a little better than I found it. I'm a thoughtful, calm, persistent and innovative. My friends say that I never get mad. I'm able to work in a team or independently. I'm a co-operative and active worker.
+
+# Hobbies
+
+I sing in the Polytech Choir and in a party band called Fii Fighters. I also play guitar and performed in Fyysikkospeksi 2017 as an actor. I have designed a few 
+<a href= "https://drive.google.com/drive/folders/1g4XVFWjP8sZzwQPsReI5kpWIMIwkx8o-?usp=sharing" target="_blank">logos</a>.
+as well. In the Defence Forces, I worked in the Conscript Band's media team.
+
+Small coding and math projects are part of everyday life even here at home. If a thought aches my mind, I often code it out or try to solve it with pen and paper.
